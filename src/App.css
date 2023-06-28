@@ -1,0 +1,16 @@
+#root {
+  max-width: 1280px;
+  margin: 0;
+  padding: 2rem;
+  text-align: left;
+}
+
+.highlight {
+  background-color: rgb(255, 255, 79, 0.5);
+  border-radius: 3px;
+}
+
+.fixed {
+  position: fixed;
+  top: 0;
+}
